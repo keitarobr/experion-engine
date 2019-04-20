@@ -1,0 +1,27 @@
+[submodule "acm"]
+	path = acm
+	url = git@github.com:keitarobr/experion-engine-acm.git
+[submodule "all"]
+	path = all
+	url = git@github.com:keitarobr/experion-engine-all.git
+[submodule "core"]
+	path = core
+	url = git@github.com:keitarobr/experion-engine-core.git
+[submodule "dblp"]
+	path = dblp
+	url = git@github.com:keitarobr/experion-engine-dblp.git
+[submodule "ecl"]
+	path = ecl
+	url = git@github.com:keitarobr/experion-engine-ecl.git
+[submodule "lattes"]
+	path = lattes
+	url = git@github.com:keitarobr/experion-engine-lattes.git
+[submodule "lexr"]
+	path = lexr
+	url = git@github.com:keitarobr/experion-engine-lexr.git
+[submodule "support"]
+	path = support
+	url = git@github.com:keitarobr/experion-engine-support.git
+[submodule "expertise-profile-builders"]
+	path = expertise-profile-builders
+	url = git@github.com:keitarobr/expertise-engine-profile-builders.git
